@@ -17,15 +17,3 @@
 #Thông tin bản cập nhật v1.7.6.0:
 -Bây giờ không cần cài chromedriver nên ae có thể xóa cho tool nhẹ bớt
 -Mình vừa reset server nên ae cung cấp lại mã thiết bị để mình kích hoạt lại nha
-
-#Thông tin bản cập nhật v1.7.5.7:
--Fix lỗi tự động tắt tool khi chuyển luồng tiếp theo
--Fix lỗi không lưu được tài khoản verify phone khi không chọn thêm hotmail
--Fix một số lỗi tồn đọng
-
-#Thông tin bản cập nhật v1.7.5.4:
--Update thêm web SMS-CODE.STORE (verify bằng SĐT)
- Giá: 1rub/sms ~ 340đ/sms
--Tool được tối ưu hơn so với bản cập nhật trước đó
--Thay web Ahasim thành Ironsim.com (Chi tiết liên hệ admin web Ahasim)
-
