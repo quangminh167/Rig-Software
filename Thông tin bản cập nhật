@@ -1,4 +1,9 @@
-#Thông tin bản cập nhật mới nhất v1.7.7.1:
+#Thông tin bản cập nhật mới nhất (v1.7.7.2):
+Bây giờ reg bằng sđt có thể chọn giao diện mobile
+Ae muốn thay đổi user-agent thì vào thư mục Data mở file User-agent.txt để chỉnh sửa nhé
+Lưu ý: không nên nhập những user-agent quá cổ để tránh gặp lỗi
+
+#Thông tin bản cập nhật v1.7.7.1:
 -Cập nhật web thuê sim: thuesimgiare.com
 Giá: 300đ/sms, web không có tính năng hủy sim nên các bạn nên để delay khoảng 50s để tránh mất tiền oan
 -Cập nhật web thuê sim: sim24.cc
