@@ -1,4 +1,8 @@
-#Thông tin bản cập nhật mới nhất (v1.7.7.5):
+#Thông tin bản cập nhật mới nhất (v1.7.7.6):
+Mình đã fix các sự cố mà sáng nay ae gặp phải, mong ae thông cảm vì sự bất tiện này 
+Nếu vẫn còn lỗi gì thì báo mình nhé 
+
+#Thông tin bản cập nhật v1.7.7.5:
 Thêm tính đăng đổi IP bằng proxy của Dtproxy.vn
 
 #Thông tin bản cập nhật v1.7.7.4:
@@ -8,16 +12,3 @@ Fix lỗi đăng bài viết bên user-agent mobile
 Bây giờ reg bằng sđt có thể chọn giao diện mobile
 Ae muốn thay đổi user-agent thì vào thư mục Data mở file User-agent.txt để chỉnh sửa nhé
 Lưu ý: không nên nhập những user-agent quá cổ để tránh gặp lỗi
-
-#Thông tin bản cập nhật v1.7.7.1:
--Cập nhật web thuê sim: thuesimgiare.com
-Giá: 300đ/sms, web không có tính năng hủy sim nên các bạn nên để delay khoảng 50s để tránh mất tiền oan
--Cập nhật web thuê sim: sim24.cc
-Giá: 350đ/sms
--Fix lỗi đổi ip bằng HmaVPN
-
-#Chúc ae học sinh/sinh viên có kỳ nghỉ hè vui vẻ :>>
-
-#Thông tin bản cập nhật v1.7.6.8:
--Fix lỗi up avatar khi reg bằng mail ảo
--Fix lỗi không lấy được ip khi dùng ProxyFB.com
