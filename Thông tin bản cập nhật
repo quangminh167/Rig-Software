@@ -1,5 +1,5 @@
 #Thông tin bản cập nhật mới nhất (v1.7.7.7):
-Mở tối đa 10 luồng cho ae (trước khi 7 luồng)
+Mở tối đa 10 luồng cho ae (trước đó 7 luồng)
 Fix một số lỗi nhỏ
 
 #Thông tin bản cập nhật v1.7.7.6:
