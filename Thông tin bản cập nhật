@@ -1,4 +1,8 @@
-#Thông tin bản cập nhật mới nhất (v1.7.7.6):
+#Thông tin bản cập nhật mới nhất (v1.7.7.7):
+Mở tối đa 10 luồng cho ae (trước khi 7 luồng)
+Fix một số lỗi nhỏ
+
+#Thông tin bản cập nhật v1.7.7.6:
 Mình đã fix các sự cố mà sáng nay ae gặp phải, mong ae thông cảm vì sự bất tiện này 
 Nếu vẫn còn lỗi gì thì báo mình nhé 
 
