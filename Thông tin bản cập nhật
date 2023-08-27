@@ -1,18 +1,14 @@
-#Thông tin bản cập nhật mới nhất (v1.7.7.7):
+#Thông tin bản cập nhật mới nhất 1.7.7.8
+-Cập nhật thêm tính năng giải captcha khi gặp trong quá trình reg (Nếu IP sạch hoặc dùng User-agent mobile thì sẽ không gặp)(bắt API bên 1stcaptcha)
+-Gỡ lỗi khi gặp trường hợp: Sorry, something went wrong creating your account. Please try again soon (Chưa chắc sẽ thành công 100%)
+-Fix lỗi sử dụng proxy của Dtproxy
+-Fix lỗi không nhận được OTP ở Temp-sms.io
+-Tối ưu và fix một số lỗi nhỏ không đáng kể
+
+#Thông tin bản cập nhật v1.7.7.7:
 Mở tối đa 10 luồng cho ae (trước đó 7 luồng)
 Fix một số lỗi nhỏ
 
 #Thông tin bản cập nhật v1.7.7.6:
 Mình đã fix các sự cố mà sáng nay ae gặp phải, mong ae thông cảm vì sự bất tiện này 
 Nếu vẫn còn lỗi gì thì báo mình nhé 
-
-#Thông tin bản cập nhật v1.7.7.5:
-Thêm tính đăng đổi IP bằng proxy của Dtproxy.vn
-
-#Thông tin bản cập nhật v1.7.7.4:
-Fix lỗi đăng bài viết bên user-agent mobile
-
-#Thông tin bản cập nhật v1.7.7.2:
-Bây giờ reg bằng sđt có thể chọn giao diện mobile
-Ae muốn thay đổi user-agent thì vào thư mục Data mở file User-agent.txt để chỉnh sửa nhé
-Lưu ý: không nên nhập những user-agent quá cổ để tránh gặp lỗi
