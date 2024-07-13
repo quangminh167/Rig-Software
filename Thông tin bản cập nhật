@@ -1,4 +1,7 @@
-#Thông tin bản cập nhật mới nhất 1.8.0.4:
+#Thông tin bản cập nhật mới nhất 1.8.0.9:
+-Thêm Kiotproxy (link: app.kiotproxy.com)
+
+#Thông tin bản cập nhật 1.8.0.4:
 -Mở lại proxyfb
 -Thêm tính năng đăng nhập lại sau khi gặp lỗi
 -Tạm đóng tính năng giải captcha, mong ae thông cảm và chuyển qua reg bằng user-agent mobile
