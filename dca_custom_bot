@@ -1,1 +1,1 @@
-{"quang":{"enabled":true,"expire":"Vĩnh viễn"},"abcd":{"enabled":true,"expire":true}}
+{"quang":{"enabled":true,"expire":"Vĩnh viễn"},"abcd":{"enabled":true,"expire":'Vĩnh viễn'}}
