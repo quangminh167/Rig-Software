@@ -1,1 +1,10 @@
-{"quang":{"enabled":true,"expire":"vinh vien"},"abcd":{"enabled":true,"expire":'vinh vien'}}
+{
+  "quang": {
+    "enabled": true,
+    "expire": "vinh vien"
+  },
+  "abcd": {
+    "enabled": true,
+    "expire": "vinh vien"
+  }
+}
